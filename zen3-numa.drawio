@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3rxBTlt_uAbXAsg4UGq--2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="560" height="400" as="geometry" />
+          <mxGeometry x="180" y="180" width="500" height="330" as="geometry" />
         </mxCell>
         <mxCell id="3rxBTlt_uAbXAsg4UGq--3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3rxBTlt_uAbXAsg4UGq--6" value="Socket 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3rxBTlt_uAbXAsg4UGq--7" value="CCD 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="220" width="60" height="30" as="geometry" />
